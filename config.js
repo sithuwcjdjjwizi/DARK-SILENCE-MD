@@ -31,10 +31,10 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~LcIXDZwK#ZnOqKt12uAT_g1tkN-iiWsv0JIOHEBL-L1YpOrqH8t0",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~jdcD1Dwb#xTbhxNNZt9YWt7LdGpJnPyAOofeNseKenZpn4Ks2xKQ",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
+    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
@@ -51,7 +51,7 @@ module.exports = {
     FAKE_TYPING: process.env.FAKE_TYPING || "false",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
-    AUTO_REACT: process.env.AUTO_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
     OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
